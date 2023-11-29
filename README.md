@@ -1,4 +1,4 @@
-# MerryChristmas
-- 这是利用js、html写的一个圣诞树代码；
-- 如果需要自定义可以利用文本编辑，定位到对应的MyLable 改动自己需要的即可
-- 如果喜欢可以点个star收藏，如果要下载下来可以直接点code进行zip下载，打开html就可以看到了
+#Giáng sinh vui vẻ
+- Đây là mã cây thông Noel được viết bằng js và html;
+- Nếu cần tùy chỉnh, bạn có thể sử dụng tính năng chỉnh sửa văn bản, tìm MyLable tương ứng và thay đổi những gì bạn cần.
+- Nếu thích bạn có thể bấm vào ngôi sao để sưu tầm, nếu muốn tải bạn có thể bấm trực tiếp vào mã để tải zip về, mở html là có thể xem.
